@@ -1,4 +1,0 @@
-discord
-requests
-aiohttp
-robloxapi
