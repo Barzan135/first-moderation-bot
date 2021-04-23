@@ -159,7 +159,7 @@ async def create_card(context, roblox_name: str, *, reason = None):
 
 @client.event
 async def on_ready():
-    await client.change_presence(status=discord.Status.online, activity=discord.Game(";cmds || Moderating Niagara"))
+    await client.change_presence(status=discord.Status.online, activity=discord.Game("BOT SHUTTING DOWN || 1 HOUR"))
     print("[BOT ONLINE!]")
 
 #Running my bot
